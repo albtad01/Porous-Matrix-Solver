@@ -13,3 +13,7 @@
 ## Solution Approach
 
 To solve the problem, we utilize a data structure based on Disjoint Set. The code is designed for a generic NxM matrix. For "Matrix Visualization" three examples of visualization have been provided. To visualize them, simply execute the preceding code: for each randomly generated matrix, the three representations will be displayed.
+
+## Contributors
+
+- [Alberto Taddei](https://github.com/albtad01)
